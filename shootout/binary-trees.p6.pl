@@ -4,7 +4,8 @@
 # Based on the submission for Perl 5.
 # Contributed by Bruce Gray (Util)
 #
-# USAGE: perl6 binary-trees.p6.pl 20
+# USAGE: perl6 binary-trees.p6.pl n
+#    where n >= 6. The actual shootout uses n=20.
 #
 # TODO:
 #   When :by adverbial modifier is added to Range.pm, change:

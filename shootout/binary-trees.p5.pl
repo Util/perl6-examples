@@ -1,5 +1,5 @@
 # Copied from http://shootout.alioth.debian.org/u32q/benchmark.php?test=binarytrees&lang=perl&id=2
-
+#
 # The Computer Language Benchmarks Game
 # http://shootout.alioth.debian.org/
 #
